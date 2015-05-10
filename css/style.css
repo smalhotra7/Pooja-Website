@@ -182,6 +182,10 @@
 				background: url('images/overlay.png');
 			}
 
+			.image.overlayOff:before {
+				background: none;
+			}
+
 			.project:before
 			{
 				background: none;
